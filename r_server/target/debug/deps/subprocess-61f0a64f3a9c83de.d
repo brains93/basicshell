@@ -1,0 +1,12 @@
+C:\Users\grant\code\basicshell\r_server\target\debug\deps\subprocess-61f0a64f3a9c83de.rmeta: C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+C:\Users\grant\code\basicshell\r_server\target\debug\deps\libsubprocess-61f0a64f3a9c83de.rlib: C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+C:\Users\grant\code\basicshell\r_server\target\debug\deps\subprocess-61f0a64f3a9c83de.d: C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs
+
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src/lib.rs:
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\builder.rs:
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\communicate.rs:
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\popen.rs:
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\win32.rs:
+C:\Users\grant\.cargo\registry\src\github.com-1ecc6299db9ec823\subprocess-0.2.9\src\os_common.rs:
